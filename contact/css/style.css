@@ -1,0 +1,149 @@
+#img {
+  background-image: url(../img/contact-banner.jpg);
+  width: 100%;
+  min-height: 400px;
+  background-attachment: fixed;
+  background-position: center center !important;
+  background-repeat: no-repeat;
+  background-size: cover !important; }
+  #img h1 {
+    color: white;
+    font-size: 60px;
+    font-weight: 600;
+    font-family: 'Raleway', sans-serif;
+    line-height: 1.1;
+    padding-left: 70px;
+    padding-top: 100px;
+    margin-bottom: 40px; }
+  #img p {
+    color: white;
+    font-weight: 600;
+    font-family: 'Raleway', sans-serif;
+    font-size: 19px;
+    padding-left: 77px;
+    margin-top: 30px; }
+
+#message {
+  height: 640px; }
+  #message .res h1 {
+    color: #53b778;
+    margin-top: 70px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid gray; }
+  #message .res .msj .svv {
+    border-bottom: 2px solid #d5d5d5;
+    display: inline-block;
+    margin-right: 56px;
+    margin-top: 20px;
+    margin-bottom: 30px; }
+    #message .res .msj .svv i {
+      font-size: 20px; }
+    #message .res .msj .svv input {
+      padding-bottom: 20px;
+      outline: none;
+      border: none;
+      padding-left: 10px;
+      font-size: 17px; }
+  #message .res .msj button {
+    width: 200px;
+    height: 50px;
+    border: 2px solid #53b778;
+    background: #53b778;
+    color: white;
+    text-transform: uppercase;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    transition: .8s; }
+    #message .res .msj button:hover {
+      color: #53b778;
+      background: white; }
+  #message .elaqe .info {
+    border: 1px solid #d5d5d5;
+    min-height: 140px;
+    min-width: 350px;
+    padding: 25px 22px;
+    margin-bottom: 15px; }
+    #message .elaqe .info i {
+      font-size: 36px;
+      display: inline-block;
+      padding-right: 25px;
+      border-right: 1px solid #d5d5d5;
+      color: #53b778;
+      line-height: 50px; }
+    #message .elaqe .info h6 {
+      display: inline;
+      margin: 0;
+      font-size: 24px;
+      font-weight: 600;
+      color: #606060;
+      padding-left: 30px;
+      font-family: 'Raleway', sans-serif; }
+    #message .elaqe .info p {
+      padding-left: 98px;
+      font-size: 14px;
+      color: #606060; }
+    #message .elaqe .info ul {
+      padding: 20px;
+      padding-bottom: 30px;
+      padding-left: 2px; }
+    #message .elaqe .info li {
+      list-style: none;
+      float: left; }
+      #message .elaqe .info li i {
+        border-radius: 50%;
+        width: 40px;
+        height: 40px;
+        background-color: #c6cbd2;
+        text-align: center;
+        font-size: 22px;
+        color: #fff;
+        padding: 0;
+        border: none;
+        position: static;
+        margin: 0;
+        line-height: 20px;
+        padding-top: 10px;
+        margin-left: 7px; }
+        #message .elaqe .info li i:hover {
+          background: #53b778;
+          transition: 1s; }
+
+#map {
+  height: 700px; }
+  #map h2 {
+    color: #53b778;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    word-spacing: 6px;
+    margin-left: 35px; }
+  #map ul {
+    margin-top: 20px;
+    text-align: center;
+    margin: 0 auto; }
+  #map li {
+    list-style: none;
+    display: inline-block;
+    margin-left: 40px; }
+    #map li i {
+      font-size: 28px;
+      border-radius: 50%;
+      width: 70px;
+      height: 70px;
+      border: 2px solid #e5e5e5;
+      padding-top: 17px;
+      color: #606060;
+      background: #f5f6f7; }
+    #map li h1 {
+      font-size: 16px;
+      color: #57b87b;
+      font-family: 'Raleway', sans-serif;
+      font-weight: 600; }
+  #map .maps {
+    margin-top: 35px; }
+    #map .maps .maps2 {
+      display: none; }
+    #map .maps .maps3 {
+      display: none; }
+
+/*# sourceMappingURL=style.css.map */
